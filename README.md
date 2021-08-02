@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning ... everything on AI
 - 💞️ I’m looking to collaborate on anything that has to do with AI
-- 📫 How to reach me Likedesun22@gmail.com or +2348136721595
+- 📫 How to reach me Likedesun22@gmail.com 
 
 <!---
 likedesun/likedesun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
